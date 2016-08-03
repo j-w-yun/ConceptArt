@@ -35,7 +35,9 @@ Unstability in areas far away (> 100000.f) from origin. This bug lurks in the ba
 Credit for noise algorithm, fractal algorithm, and flare algorithm used in the background fragment shader (backgroundFragment.fs):
 <br>
 <b>xaot88</b>
+<br>
 <b>iq</b>
+<br>
 <b>bsdbeard</b>
 <br>
 from www.shadertoy.com
