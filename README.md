@@ -2,7 +2,7 @@
 
 ---
 
-A concept program in preparation for engine development
+A concept program in preparation for custom engine
 
 ---
 
