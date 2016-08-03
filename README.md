@@ -43,3 +43,10 @@ Credit for noise algorithm, fractal algorithm, and flare algorithm used in the b
 <b>bsdbeard</b>
 <br>
 from www.shadertoy.com
+<br>
+<br>
+Credit for the Space Shuttle orbiter .obj file used to render player:
+<br>
+from http://people.sc.fsu.edu/~jburkardt/data/obj/obj.html
+<br>
+was re-exported via Blender with triangulated faces into player.obj found in /res/ of Concept.jar
