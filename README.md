@@ -2,7 +2,7 @@
 
 ---
 
-A concept art example in preparation for engine development
+A concept program in preparation for engine development
 
 ---
 
