@@ -2,8 +2,6 @@
 
 ---
 
-A concept program in preparation for custom engine
-<br>
 Runnable fat jar Concept.jar opens the incomplete 3D birds-eye-view rendering engine
 
 ---
