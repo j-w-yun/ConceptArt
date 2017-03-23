@@ -41,7 +41,7 @@ Credit for the Space Shuttle orbiter .obj file used to render player:
 <br>
 from http://people.sc.fsu.edu/~jburkardt/data/obj/obj.html
 <br>
-was re-exported via Blender with triangulated faces into player.obj found in /res/ of Concept.jar
+was re-exported via Blender with triangulated faces
 <br>
 
       Jaewan Yun
