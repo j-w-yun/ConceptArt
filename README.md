@@ -1,22 +1,14 @@
 # ConceptArt
-
 ---
 
-A test program made with OpenGL
+Controls
 <br>
-Runnable fat jar Concept.jar opens the incomplete 3D birds-eye-view rendering engine
 
----
-
-Controls:
-<br>
-Up Arrow : Throttle
-<br>
-Down Arrow : Brake
-<br>
-Left & Right Arrows : Turn
-<br>
-Space Bar : Warp Speed
+    Up Arrow : Foward
+    Down Arrow : Brake
+    Left & Right Arrows : Turn
+    Space Bar : Boost
+<hr>
 
 ---
 
@@ -50,3 +42,9 @@ Credit for the Space Shuttle orbiter .obj file used to render player:
 from http://people.sc.fsu.edu/~jburkardt/data/obj/obj.html
 <br>
 was re-exported via Blender with triangulated faces into player.obj found in /res/ of Concept.jar
+<br>
+
+      Jaewan Yun
+      Undergraduate Student
+      Molecular Biology, Chemistry, Computer Science
+      University of Pittsburgh
